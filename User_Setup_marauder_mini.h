@@ -171,8 +171,8 @@
 #define TOUCH_CS -1
 //#define TFT_MISO 19
 //#define TFT_MOSI 23
-//#define TFT_SCLK 18
-//#define TFT_BL   32
+#define TFT_SCLK 32
+#define TFT_BL   18
 
 /*
 // ESP32 Marauder 
